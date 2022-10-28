@@ -8,4 +8,4 @@ print('Value of y:',y)
 print(y)
 print(x)
 print(x+y)
-
+print(x-y)
