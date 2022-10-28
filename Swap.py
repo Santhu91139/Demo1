@@ -8,3 +8,7 @@ print('Value of y:',y)
 print(y)
 print(x)
 print(x+y)
+if x>y
+print(condition is true)
+else
+print(condition is false)
